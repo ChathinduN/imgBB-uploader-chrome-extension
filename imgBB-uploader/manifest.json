@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "ImgBB Uploader",
+    "description": "Upload images to imgBB with a right-click.",
+    "version": "1.0",
+    "permissions": ["contextMenus", "storage"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
